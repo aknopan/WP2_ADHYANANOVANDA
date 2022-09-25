@@ -4,7 +4,7 @@
 34
 </head>
 <body>
- Halo Kawan.. Yuk kita belajar web programming..!!!<br>
+ Halo Teman.. Yuk kita belajar web programming..!!!<br>
  Nilai 1 = <?= $nilai1; ?>
  Nilai 2 = <?= $nilai2; ?>
  ini hasil dari pemodelan dengan methode penjumlahan yaitu <?=
